@@ -1,0 +1,91 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+    width: 90%;
+    margin: auto;
+}
+
+
+img {
+    width: 10%;
+}
+.main1 {
+    background-color: whitesmoke;
+    padding: 1rem;
+    margin: 20px;
+}
+.main2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.main3 {
+    display: flex;
+    justify-content: space-between;
+}
+.main4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.main5 {
+    display: flex;
+    justify-content: space-between;
+}
+hr {
+    margin-top: 40px;
+}
+.main6 p {
+    margin-top: 30px;
+}
+.main7 {
+    display: flex;
+    justify-content: space-between;
+}
+.p {
+    margin-top: 20px;
+}
+.main8 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.top {
+    color: rgb(7, 7, 97);
+    margin-bottom: 1rem;
+}
+.top2 {
+    margin-bottom: 1rem;
+}
+.top3 h2 {
+    margin-bottom: 1rem;
+    text-align: center;
+    color: rgb(7, 7, 97) ;
+}
+button {
+    background-color: rgb(7, 7, 97) ;
+    color: whitesmoke;
+    padding: 10px;
+    border-radius: 20px;
+    margin-top: 1rem;
+}
+.main9 p {
+    margin-top: 1rem;
+}
+.img2 img {
+    width: 5rem;
+    margin-top: 2rem;
+}
+.img2 hr {
+    margin-top: -1px;
+}
+.img2 p {
+    margin-top: 8px;
+}
+.img2 a {
+    color: blue;
+}
